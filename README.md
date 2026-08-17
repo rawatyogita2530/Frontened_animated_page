@@ -46,4 +46,5 @@ src/
 ## Design approach
 
 The visual language uses dark scientific environments, warm editorial sections, molecular color accents, and restrained motion. The animation is tied to the biotech story rather than added as decoration: the DNA model responds to pointer movement and scrolling, while the molecular story and research pipeline respond to the visitor's actions.
-
+___
+https://biotech-frontend-25.vercel.app/
